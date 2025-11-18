@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Mockups com IA",
+  "description": "Um aplicativo que gera mockups profissionais a partir de uma imagem enviada pelo usuário. Selecione uma categoria, adicione uma descrição de estilo opcional e deixe a IA criar quatro pré-visualizações visuais impressionantes.",
+  "requestFramePermissions": []
+}
